@@ -1,0 +1,3 @@
+Submission time: 1636655410 seconds
+Termination time: 1636655412 seconds
+Execution time: 2 seconds
